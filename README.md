@@ -17,3 +17,22 @@ Bright Coffee Shop sales data using Databricks.
 
 ### 🔗 VIEW MY DATABRICKS PROJECT
 https://dbc-12af8691-78f7.cloud.databricks.com/editor/queries/4338831100571860?o=7474651935400209
+
+
+## ☕ LOVABLE INTERACTIVE DASHBOARD
+
+This interactive dashboard showcases Bright Coffee Shop
+sales performance, revenue trends, product performance
+and store comparisons.
+
+### 📊 Dashboard Features
+- Total Revenue
+- Total Transactions
+- Units Sold
+- Store Performance
+- Product Performance
+- Sales Trends
+
+### 🔗 VIEW MY LOVABLE DASHBOARD
+
+(https://lovable.dev/products/bright-coffee-pulse)
