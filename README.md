@@ -52,3 +52,15 @@ using data analysed in Databricks SQL.
 ### 🔗 VIEW MY DATABRICKS DASHBOARD
 
 https://dbc-12af8691-78f7.cloud.databricks.com/dashboardsv3/01f1c58a4e3a193f8c0054461f847faf/published?o=7474651935400209
+
+
+## 📊 GOOGLE LOOKER STUDIO DASHBOARD
+
+This interactive dashboard presents Bright Coffee Shop
+sales performance, revenue trends, product performance
+and store comparisons.
+
+### 🔗 VIEW MY LOOKER STUDIO DASHBOARD
+
+https://datastudio.google.com/reporting/8c428441-5013-4c66-a5f9-ef46b18e5a1b
+
