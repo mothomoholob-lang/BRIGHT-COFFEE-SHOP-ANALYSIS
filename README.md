@@ -16,5 +16,4 @@ Bright Coffee Shop sales data using Databricks.
 - Sales trends
 
 ### 🔗 VIEW MY DATABRICKS PROJECT
-
-[Click Here to View My Databricks SQL Project]([PASTE_YOUR_LINK_HERE](https://dbc-12af8691-78f7.cloud.databricks.com/editor/queries/4338831100571860?o=7474651935400209))
+https://dbc-12af8691-78f7.cloud.databricks.com/editor/queries/4338831100571860?o=7474651935400209
